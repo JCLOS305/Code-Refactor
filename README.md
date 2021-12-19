@@ -39,6 +39,18 @@ I don't own any images used in this code, this was just a class project !
 <img src="assets\images\01-html-css-git-homework-demo.png">
 
 
+## Collabs
+
+For this Challange I referenced my code in a similar project ["RUN-BUDDY"](https://github.com/JCLOS305/run-buddy/blob/main/index.html), Youtube, Google, 
+Instructions from my Class TA's
+- Jordan 
+- Jocelyn
+- Tim
+- Cristian
+
+and directions from my Instructor 
+- Felicia O'Garra
+
 
 
 
