@@ -1,7 +1,7 @@
 #README for Refactor Challenge , Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
 
 **Version 1.0.0** 
-(i'm probably not gonna re-edit this once it gets graded </lolfunnytext> )
+(<lolfunnytext>i'm probably not gonna re-edit this once it gets graded</lolfunnytext>)
 
 ## Description 
 For this challange/project I was instructed to refactor a web applications code.
@@ -14,7 +14,7 @@ The Criteria was
 * WHEN I view the structure of the HTML elements
 * THEN I find that the elements follow a logical structure independent of styling and positioning
 * WHEN I view the image elements
-* THEN I find accessible alt attributes
+* THEN I find accessible alt attributesgi
 * WHEN I view the heading attributes
 * THEN they fall in sequential order
 * WHEN I view the title element
