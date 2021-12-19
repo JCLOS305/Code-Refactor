@@ -4,7 +4,7 @@
 (<lolfunnytext>i'm probably not gonna re-edit #readme once it's turned in</lolfunnytext>)
 
 ## Description 
-For this challange/project I was instructed to refactor a web applications code.
+For this challenge/project I was instructed to refactor a web applications code.
 
 The Criteria was
 
