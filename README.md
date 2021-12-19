@@ -1,7 +1,7 @@
 #README for Refactor Challenge , Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
 
 **Version 1.0.0** 
-(<lolfunnytext>i'm probably not gonna re-edit this once it gets graded</lolfunnytext>)
+(<lolfunnytext>i'm probably not gonna re-edit #readme once it's turned in</lolfunnytext>)
 
 ## Description 
 For this challange/project I was instructed to refactor a web applications code.
