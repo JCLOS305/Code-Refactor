@@ -1,4 +1,4 @@
-#README for Refactor Challange , Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
+#README for Refactor Challenge , Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
 
 **Version 1.0.0** 
 (i'm probably not gonna re-edit this once it gets graded </lolfunnytext> )
