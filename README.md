@@ -31,7 +31,7 @@ Also including:
 
 
 ## Usage 
- [LINK TO GITHUB HOSTED WEBSITE](https://jclos305.github.io/Code-Refactor/)
+ [LINK TO GITHUB HOSTED WEBSITE](https://jclos305.github.io/Code-Refactor/) 
 Test/School/Homework Purposes Only
 
 I don't own any images used in this code, this was just a class project !
