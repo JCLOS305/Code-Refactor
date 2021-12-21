@@ -54,7 +54,7 @@ and directions from my Instructor
 ##
 
 ## Badges
-![JCLOS305]https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue
+![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
