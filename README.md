@@ -1,14 +1,14 @@
-#README for Refactor Challenge , Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
+# Refactor Challenge, Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
 
 **Version 1.0.0** 
-(<lolfunnytext>i'm probably not gonna re-edit #readme once it's turned in</lolfunnytext>)
 
 ## Description 
-For this challenge/project I was instructed to refactor a web applications code.
+For this challenge I was instructed to refactor a web applications code.
 
-The Criteria was
+The Criteria was:
 
-* GIVEN a webpage meets accessibility standards
+- GIVEN a webpage meets accessibility standards
+
 * WHEN I view the source code
 * THEN I find semantic HTML elements
 * WHEN I view the structure of the HTML elements
@@ -31,15 +31,15 @@ Also including:
 
 
 ## Usage 
- [LINK TO GITHUB HOSTED WEBSITE](https://jclos305.github.io/Code-Refactor/) 
+ [LINK TO GITHUB HOSTED WEBSITE](https://jclos305.github.io/Code-Refactor/) <br/> 
 Test/School/Homework Purposes Only
 
-I don't own any images used in this code, this was just a class project !
+
 
 <img src="assets\images\01-html-css-git-homework-demo.png">
 
 
-## Collabs
+## Credits
 
 For this Challange I referenced my code in a similar project ["RUN-BUDDY"](https://github.com/JCLOS305/run-buddy/blob/main/index.html), Youtube, Google, 
 Instructions from my Class TA's
@@ -51,8 +51,14 @@ Instructions from my Class TA's
 and directions from my Instructor 
 - Felicia O'Garra
 
+##
+
+## Badges
+
+![badmath]https://img.shields.io/badge/University%20of-Miami-orange)
 
 
+© December 2021  Jeancarlos Mulet
 
 
 
