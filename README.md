@@ -54,8 +54,8 @@ and directions from my Instructor
 ##
 
 ## Badges
-
-![JCLOS305](https://img.shields.io/badge/University%20of-Miami-orange)
+![JCLOS305]https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue
+![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
 © December 2021  Jeancarlos Mulet
