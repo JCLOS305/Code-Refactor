@@ -1,4 +1,4 @@
-/*  BODY */
+/*  Body Section */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -10,9 +10,9 @@ body {
     font-size: 16px;
 }
 
-/*  BODY ENDS */
+/*  Body Ends */
 
-/*  HEADER */
+/*  Header Section */
 
 .header {
     padding: 20px ;
@@ -59,7 +59,7 @@ p {
 
 
 
-/* HERO */
+/* HERO Section */
 
 .hero {
     height: 800px;
@@ -80,9 +80,9 @@ p {
     margin-left: 25px;
 }
 
-/* HERO ENDS */
+/* HERO Ends */
 
-/* CONTENT SECTION */
+/* Content Section */
 
 .content {
     width: 75%;
@@ -109,9 +109,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* CONTENT SECTION ENDS*/
+/* Content Ends */
 
-/* BENEFITS SECTION */
+/* Benefits Section */
 
  .benefits {
     margin-right: 20px;
@@ -140,10 +140,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* BENEFITS SECTION ENDS  */
+/* Benefits Ends */
 
 
-/* FOOTER SECTION */
+/* Footer Section */
 
 .footer {
     padding: 30px;
@@ -156,4 +156,4 @@ p {
     font-size: 20px;
 }
 
-/* FOOTER SECTION ENDS */
+/* Footer Ends */
