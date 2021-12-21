@@ -55,7 +55,7 @@ and directions from my Instructor
 
 ## Badges
 
-![badmath]https://img.shields.io/badge/University%20of-Miami-orange)
+![JCLOS305](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
 © December 2021  Jeancarlos Mulet
